@@ -12,7 +12,6 @@ i built a beautiful landing pages and currently focused on the Advanced project 
 ## ✨ Live Portfolio
 
 🌐 [Visit my full portfolio →](https://michael-s-portfolio-iota.vercel.app/)  
-(or link to Netlify/Vercel if hosted elsewhere)
 
 ## 🛠️ Technologies & Skills
 
