@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# MikyyDev - Full-Stack Developer Portfolio
 
-## Getting Started
+<div align="center">
+  <img src="images/portfolio-screenshot.png" alt="MikyyDev Portfolio Preview" width="80%"/>
+  <br><br>
+  <em>Showcasing responsive, modern web projects built with passion in Addis Ababa, Ethiopia 🌍💻</em>
+</div>
 
-First, run the development server:
+Hello! I'm **Mikyy**, a frontend-focused developer passionate about creating clean, responsive, and user-friendly websites using **pure HTML, CSS JavaScript**, and With framework like  react.js, next.js.  
+i built a beautiful landing pages and currently focused on the Advanced project such as ** State Management, API Integration, Build Complex Applications, Testing**, exploring more full-stack opportunities.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✨ Live Portfolio
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🌐 [Visit my full portfolio →](https://michael-s-portfolio-iota.vercel.app/)  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🛠️ Technologies & Skills
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Frontend**: HTML5, CSS3 (Flexbox, Grid, Animations, Responsive Design), Vanilla JavaScript
+- **Tools**: Git/GitHub, VS Code, Figma (for design inspiration), GitHub Pages
+- **Currently Learning**: React.js, Tailwind CSS, basic backend (Node.js/Express)
+- **Soft Skills**: Problem-solving, clean code organization, attention to detail
 
-## Learn More
+## 🚀 Featured Projects
 
-To learn more about Next.js, take a look at the following resources:
+Here are some of my proudest works — all built with pure HTML/CSS (no frameworks) as learning assignments:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+| Project | Description | Live Demo | Repo |
+|---------|-------------|-----------|------|
+| ☕ Coffee Landing Page | Beautiful, responsive fictional coffee shop site with smooth design | [View →](https://mikyyDev.github.io/coffee-landing-page/) | [GitHub](https://github.com/mikyyDev/coffee-landing-page) |
+| 📚 EduTech Academy | Modern education platform landing page with courses, testimonials & form | [View →](https://mikyyDev.github.io/edutech-academy/) | [GitHub](https://github.com/mikyyDev/edutech-academy) |
+| ✈️ Travel Booking | Ethiopian adventures travel site with hero search, destinations & packages | [View →](https://mikyyDev.github.io/travel-booking/) | [GitHub](https://github.com/mikyyDev/travel-booking) |
+| ... more coming soon! | | | |
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+(Feel free to add screenshots or GIFs for each in a grid if you want extra flair!)
 
-## Deploy on Vercel
+## 📊 GitHub Stats
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<div align="center">
+  <!-- Add your GitHub stats cards here – generate from https://github.com/anuraghazra/github-readme-stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mikyyDev&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikyyDev&theme=radical" alt="Streak Stats"/>
+</div>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📬 Let's Connect
+
+- **GitHub**: [@miky](https://github.com/mikyyDev)
+- **Email**: michaelalula05@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/michael-alula/
+- **Twitter/X**: [(@miky)](https://x.com/miky_144)
+
+Open to collaborations, feedback, or internship opportunities! Feel free to fork any of my repos or reach out.  
+
+Built with ❤️ in Addis Ababa, Ethiopia 🇪🇹  
+Last updated: February 2026
