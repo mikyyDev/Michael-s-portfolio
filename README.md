@@ -6,8 +6,8 @@
   <em>Showcasing responsive, modern web projects built with passion in Addis Ababa, Ethiopia 🌍💻</em>
 </div>
 
-Hello! I'm **Mikyy**, a frontend-focused developer passionate about creating clean, responsive, and user-friendly websites using **pure HTML, CSS**, and light JavaScript.  
-Currently building beautiful landing pages and exploring more full-stack opportunities.
+Hello! I'm **Mikyy**, a frontend-focused developer passionate about creating clean, responsive, and user-friendly websites using **pure HTML, CSS JavaScript**, and With framework like  react.js, next.js.  
+i built a beautiful landing pages and currently focused on the Advanced project such as ** State Management, API Integration, Build Complex Applications, Testing**, exploring more full-stack opportunities.
 
 ## ✨ Live Portfolio
 
@@ -44,10 +44,10 @@ Here are some of my proudest works — all built with pure HTML/CSS (no framewor
 
 ## 📬 Let's Connect
 
-- **GitHub**: [@mikyyDev](https://github.com/mikyyDev)
-- **Email**: your.email@example.com
-- **LinkedIn**: (add if you have one)
-- **Twitter/X**: (add if active)
+- **GitHub**: [@miky](https://github.com/mikyyDev)
+- **Email**: michaelalula05@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/michael-alula/
+- **Twitter/X**: [(@miky)](https://x.com/miky_144)
 
 Open to collaborations, feedback, or internship opportunities! Feel free to fork any of my repos or reach out.  
 
