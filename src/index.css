@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Sora:wght@600;700;800&display=swap');
+
+:root {
+  --bg: #fffdf7;
+  --surface: #ffffffcc;
+  --text-main: #111111;
+  --text-muted: #4f4f54;
+  --brand-warm: #d96f00;
+  --brand-cool: #118ab2;
+  --chip-bg: #fcefd9;
+  --border-soft: #f1d7b6;
+  --card-shadow: 0 12px 30px rgba(206, 123, 43, 0.12);
+  --input-bg: #ffffff;
+  --input-text: #111111;
+  --bg-accent-1: rgba(255, 213, 79, 0.26);
+  --bg-accent-2: rgba(128, 222, 234, 0.22);
+  --bg-accent-3: rgba(255, 138, 128, 0.2);
+  --sheen-accent: rgba(255, 255, 255, 0.4);
+  --font-body: 'Outfit', 'Segoe UI', sans-serif;
+  --font-heading: 'Sora', 'Segoe UI', sans-serif;
+}
+
+:root[data-theme='dark'] {
+  --bg: #101417;
+  --surface: rgba(20, 28, 34, 0.86);
+  --text-main: #ecf1f5;
+  --text-muted: #b6c2cc;
+  --brand-warm: #ffb74d;
+  --brand-cool: #4dd0e1;
+  --chip-bg: #1a2a31;
+  --border-soft: #29424f;
+  --card-shadow: 0 12px 30px rgba(0, 0, 0, 0.35);
+  --input-bg: #182229;
+  --input-text: #edf2f7;
+  --bg-accent-1: rgba(255, 171, 64, 0.17);
+  --bg-accent-2: rgba(77, 208, 225, 0.16);
+  --bg-accent-3: rgba(255, 138, 128, 0.12);
+  --sheen-accent: rgba(255, 255, 255, 0.08);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-body);
+  color: var(--text-main);
+  background:
+    radial-gradient(circle at 10% 10%, var(--bg-accent-1), transparent 30%),
+    radial-gradient(circle at 90% 0%, var(--bg-accent-2), transparent 28%),
+    radial-gradient(circle at 92% 75%, var(--bg-accent-3), transparent 30%),
+    var(--bg);
+  min-height: 100vh;
+  line-height: 1.6;
+  transition: background 0.35s ease, color 0.35s ease;
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background:
+    linear-gradient(120deg, transparent 0%, var(--sheen-accent) 50%, transparent 100%);
+  background-size: 200% 200%;
+  animation: sheen 14s ease-in-out infinite;
+}
+
+#root {
+  min-height: 100vh;
+  position: relative;
+  isolation: isolate;
+}
+
+a {
+  color: inherit;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--font-heading);
+  line-height: 1.15;
+}
+
+@keyframes sheen {
+  0%,
+  100% {
+    background-position: 0 0;
+  }
+  50% {
+    background-position: 100% 100%;
+  }
+}
