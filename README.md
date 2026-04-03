@@ -15,7 +15,7 @@ I build beautiful landing pages and I am currently focused on advanced projects 
 
 ## Live Portfolio
 
-[Visit my full portfolio](https://michael-s-portfolio-iota.vercel.app/)
+[Visit my full portfolio](https://michael-s-portfolio-seven.vercel.app/)
 
 ## Technologies and Skills
 
