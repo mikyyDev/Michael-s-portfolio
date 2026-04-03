@@ -1,16 +1,56 @@
-# React + Vite
+# MikyyDev - Full-Stack Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<div align="center">
+	<h3>Responsive, modern web experiences built with passion in Addis Ababa, Ethiopia</h3>
+	<p>
+		Frontend-focused developer crafting clean interfaces, smooth interactions, and user-first products.
+	</p>
+</div>
 
-Currently, two official plugins are available:
+## Hello, I'm Mikyy
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+I'm a frontend-focused developer passionate about building clean, responsive, and user-friendly websites using HTML, CSS, JavaScript, and frameworks like React.js and Next.js.
 
-## React Compiler
+I build beautiful landing pages and I am currently focused on advanced projects involving state management, API integration, complex application architecture, testing, and exploring more full-stack opportunities.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Live Portfolio
 
-## Expanding the ESLint configuration
+[Visit my full portfolio](https://michael-s-portfolio-iota.vercel.app/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies and Skills
+
+- Frontend: HTML5, CSS3 (Flexbox, Grid, Animations, Responsive Design), Vanilla JavaScript
+- Frameworks: React.js, Next.js
+- Tools: Git, GitHub, VS Code, Figma
+- Currently Learning: Tailwind CSS, Node.js, Express
+- Soft Skills: Problem-solving, clean code organization, attention to detail
+
+## Featured Projects
+
+Here are some of my favorite projects, built as part of my frontend learning journey:
+
+| Project                   | Description                                                                      | Live Demo                                               | Repository                                                |
+| ------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------- |
+| Coffee Landing Page       | Beautiful, responsive fictional coffee shop site with a polished UI              | [View](https://mikyyDev.github.io/coffee-landing-page/) | [GitHub](https://github.com/mikyyDev/coffee-landing-page) |
+| EduTech Academy           | Modern education landing page with courses, testimonials, and contact form       | [View](https://mikyyDev.github.io/edutech-academy/)     | [GitHub](https://github.com/mikyyDev/edutech-academy)     |
+| Travel Booking            | Ethiopian adventures travel site with search, destinations, and package sections | [View](https://mikyyDev.github.io/travel-booking/)      | [GitHub](https://github.com/mikyyDev/travel-booking)      |
+| More projects coming soon | New experiments and full-stack builds are on the way                             | -                                                       | -                                                         |
+
+## GitHub Stats
+
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=mikyyDev&show_icons=true&theme=radical" alt="GitHub Stats" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=mikyyDev&theme=radical" alt="GitHub Streak" />
+</div>
+
+## Let's Connect
+
+- GitHub: [@mikyyDev](https://github.com/mikyyDev)
+- Email: michaelalula05@gmail.com
+- LinkedIn: [michael-alula](https://www.linkedin.com/in/michael-alula/)
+- Twitter/X: [@miky_144](https://x.com/miky_144)
+
+Open to collaborations, feedback, and internship opportunities.
+
+Built with love in Addis Ababa, Ethiopia.
+Last updated: April 2026
