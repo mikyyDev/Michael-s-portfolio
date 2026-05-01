@@ -32,7 +32,9 @@ function Footer({ socials }) {
             </span>
             <time dateTime={new Date().toISOString()}>{addisTime} EAT</time>
           </p>
-          <p>© {new Date().getFullYear()} Micha. All rights reserved.</p>
+          <p>
+            © {new Date().getFullYear()} Michael Alula . All rights reserved.
+          </p>
         </div>
         <SocialLinks
           socials={socials}

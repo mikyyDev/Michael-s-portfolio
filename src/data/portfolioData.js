@@ -4,7 +4,6 @@ import {
   SiExpress,
   SiGithub,
   SiJavascript,
-  SiMongodb,
   SiMysql,
   SiNodedotjs,
   SiPython,
@@ -60,16 +59,39 @@ export const skillsSummary =
   "I am actively building full-stack and AI engineering skills through practical projects, from frontend interfaces to backend APIs and data systems.";
 
 export const skills = [
-  { name: "React", category: "Frontend", icon: SiReact, level: "Building modern responsive frontend applications" },
-  { name: "JavaScript", category: "Frontend", icon: SiJavascript, level: "Core language for web application development" },
-  { name: "TypeScript", category: "Frontend", icon: SiTypescript, level: "Safer scalable application code with static typing" },
-  { name: "Node.js", category: "Backend", icon: SiNodedotjs, level: "Backend runtime for APIs and server-side logic" },
-  { name: "Express.js", category: "Backend", icon: SiExpress, level: "REST API development and middleware architecture" },
-  { name: "REST APIs", category: "Backend", icon: Code2, level: "Designing clean endpoints and integration workflows" },
-  { name: "MySQL Database", category: "Backend", icon: SiMysql, level: "Relational schema design, queries, and optimization" },
-  { name: "MongoDB", category: "Backend", icon: SiMongodb, level: "Document modeling and NoSQL data storage" },
-  { name: "Python", category: "Other", icon: SiPython, level: "Data processing, AI experiments, and automation" },
-  { name: "Git & GitHub", category: "Other", icon: SiGithub, level: "Version control, collaboration, and release workflows" },
+  { name: "JavaScript", category: "Languages", icon: SiJavascript, level: "Core language for modern web applications" },
+  { name: "TypeScript", category: "Languages", icon: SiTypescript, level: "Static typing for scalable and safer codebases" },
+  { name: "Python", category: "Languages", icon: SiPython, level: "Used for backend services, AI workflows, and automation" },
+  { name: "SQL", category: "Languages", icon: SiMysql, level: "Querying, modeling, and managing relational data" },
+
+  { name: "React.js", category: "Frontend", icon: SiReact, level: "Building interactive, component-driven user interfaces" },
+  { name: "Next.js", category: "Frontend", icon: Layers3, level: "Creating full-stack React apps with routing and SSR support" },
+  { name: "Vite", category: "Frontend", icon: Layers3, level: "Fast frontend tooling for modern JavaScript projects" },
+  { name: "Tailwind CSS", category: "Frontend", icon: Layers3, level: "Utility-first styling for rapid and consistent UI development" },
+  { name: "HTML5", category: "Frontend", icon: Code2, level: "Semantic page structure and accessible content markup" },
+  { name: "CSS3", category: "Frontend", icon: Code2, level: "Responsive layouts, animations, and modern visual styling" },
+  { name: "Responsive Design", category: "Frontend", icon: Layers3, level: "Mobile-first interfaces that adapt across screen sizes" },
+
+  { name: "FastAPI", category: "Backend", icon: SiExpress, level: "Building high-performance Python APIs with clean architecture" },
+  { name: "Node.js", category: "Backend", icon: SiNodedotjs, level: "Server-side JavaScript runtime for scalable backend systems" },
+  { name: "JWT Auth", category: "Backend", icon: GitBranch, level: "Token-based authentication and session management" },
+  { name: "bcrypt", category: "Backend", icon: GitBranch, level: "Secure password hashing and user credential protection" },
+  { name: "SQLAlchemy", category: "Backend", icon: SiMysql, level: "ORM-based database integration and query abstraction" },
+
+  { name: "PostgreSQL", category: "Databases", icon: SiMysql, level: "Relational database design with production-grade performance" },
+  { name: "SQLite", category: "Databases", icon: SiMysql, level: "Lightweight embedded database for rapid development and testing" },
+  { name: "MySQL", category: "Databases", icon: SiMysql, level: "Schema design, joins, indexing, and performance tuning" },
+
+  { name: "Git", category: "Tools", icon: SiGithub, level: "Version control, branching strategies, and clean commit workflows" },
+  { name: "GitHub", category: "Tools", icon: SiGithub, level: "Collaboration, pull requests, and repository management" },
+  { name: "Vercel", category: "Tools", icon: Layers3, level: "Frontend deployment and preview environments" },
+  { name: "Render", category: "Tools", icon: Layers3, level: "Cloud hosting for web services and backend deployment" },
+  { name: "VS Code", category: "Tools", icon: Code2, level: "Productive development workflow with extensions and debugging" },
+
+  { name: "LangChain", category: "AI / ML", icon: SiTensorflow, level: "Composing LLM-powered apps with tool and chain orchestration" },
+  { name: "Groq API", category: "AI / ML", icon: SiTensorflow, level: "Low-latency inference integration for AI assistants" },
+  { name: "Hugging Face", category: "AI / ML", icon: SiTensorflow, level: "Working with open models, embeddings, and NLP tooling" },
+  { name: "RAG Pipelines", category: "AI / ML", icon: SiTensorflow, level: "Retrieval-augmented generation for grounded AI responses" },
 ];
 
 export const projects = [
