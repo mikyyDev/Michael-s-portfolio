@@ -7,7 +7,7 @@
 	</p>
 </div>
 
-## Hello, I'm Mikyy
+## Hello, I'm Michael Alula
 
 I'm a frontend-focused developer passionate about building clean, responsive, and user-friendly websites using HTML, CSS, JavaScript, and frameworks like React.js and Next.js.
 
@@ -19,9 +19,12 @@ I build beautiful landing pages and I am currently focused on advanced projects 
 
 ## Technologies and Skills
 
-- Frontend: HTML5, CSS3 (Flexbox, Grid, Animations, Responsive Design), Vanilla JavaScript
-- Frameworks: React.js, Next.js
-- Tools: Git, GitHub, VS Code, Figma
+- Languages: JavaScript, TypeScript, Python, SQL
+- Frontend: React.js, Next.js, Vite, Tailwind CSS, HTML5, CSS3, Responsive Design
+- Backend: FastAPI, Node.js, JWT Auth, bcrypt, SQLAlchemy
+- Databases: PostgreSQL, SQLite, MySQL
+- Tools: Git, GitHub, Vercel, Render, VS Code
+- AI / ML:  LangChain, Groq API, Hugging Face, RAG pipelines
 - Currently Learning: Tailwind CSS, Node.js, Express
 - Soft Skills: Problem-solving, clean code organization, attention to detail
 
